@@ -12,7 +12,7 @@ steps:
   displayName: 'Install dependencies'
 
 - script: |
-    python src/main.py
+    python app.py
   displayName: 'Run application'
 
 - task: AzureWebApp@1
