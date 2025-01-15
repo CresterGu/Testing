@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ef5aa58e-08a9-4153-b278-ecc09119a49b/resourceGroups/Crester_Group_1/providers/Microsoft.Web/sites/CresterTestingApp",
+    "appService.deploySubpath": "."
+}
